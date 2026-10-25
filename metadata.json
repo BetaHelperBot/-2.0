@@ -1,0 +1,7 @@
+{
+  "name": "Личный Органайзер",
+  "description": "Личный органайзер Heybo v2.0: надёжное хранение паролей с WebAuthn, контекстные заметки (Minecraft, Brawl Stars, цели), задачи и офлайн-диктовка. Всё хранится только на устройстве.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+ёё%
